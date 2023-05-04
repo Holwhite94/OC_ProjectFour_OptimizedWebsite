@@ -675,6 +675,11 @@ a {
     padding: 10px;
 }
 
+#partnerslist {
+    display: flex;
+    list-style: none;
+}
+
 .container {
     max-width: 1000px;
 }
