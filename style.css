@@ -52,6 +52,10 @@ a:hover {
     padding: 100px 50px;
 }
 
+#title2 {
+    width: 100%;
+}
+
 .bloc-md {
     padding: 50px;
 }
