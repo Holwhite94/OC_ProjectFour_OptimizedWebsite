@@ -671,8 +671,8 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: white !important;
-    font-size: large;
-    padding: 5px;
+    font-size: larger;
+    padding: 10px;
 }
 
 .container {
